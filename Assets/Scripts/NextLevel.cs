@@ -10,8 +10,6 @@ public class NextLevel : MonoBehaviour
         {
             return;
         }
-
-        Debug.Log($"Player entrato in {name}, carico la scena successiva");
         SceneLoader.LoadNextScene();
     }
 }

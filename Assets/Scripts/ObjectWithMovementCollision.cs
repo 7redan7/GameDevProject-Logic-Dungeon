@@ -1,6 +1,4 @@
-using System;
 using UnityEngine;
-using UnityEngine.Rendering.Universal.Internal;
 
 [RequireComponent(typeof(Collider2D))]
 
