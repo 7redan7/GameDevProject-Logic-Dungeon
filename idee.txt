@@ -1,0 +1,14 @@
+Interagibili
+- cavo: Basta che da un lato (disponibile) ci sia la corrente e la inoltra agli altri
+- Antenna: se gli arriva corrente, la manda alle altre antenne
+- Pickup (potremmo fare sistema a punti)
+
+Meccaniche
+- Rotazione: si può rotare una porta logica (si ruotano solo gli input/outputs) o altri interagibili
+- Pit: se ci si cade si muore. Se ci cade un blocco sparisce.
+
+Utility
+- menu di scelta livello
+- reminder di cosa fanno le porte logiche
+- input per resettare (tieni premuto R, e si annerisce lo schermo)
+
